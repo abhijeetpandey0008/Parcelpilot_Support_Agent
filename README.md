@@ -4,6 +4,12 @@
 
 Built for the **CalQuity AI Engineer Assessment**.
 
+## 🚀 Live Demo
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
+
+**Live App:** [Open the deployed application](https://parcelpilotsupportagent-gnpqwmc22begbotfzidvzz.streamlit.app/)
+
 ---
 
 ## 🌟 Overview
