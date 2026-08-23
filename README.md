@@ -729,6 +729,6 @@ For more details, see:
 
 ## 👨‍💻 Author
 
-Mohit Raj
+Abhijeet Pandey
 
 AI / ML & Data Science Enthusiast
